@@ -4,7 +4,7 @@
 
 ## Ejemplo en vivo
 
-- [URL de github pages de este proyecto](https://raquel-castillejo.github.io/007-grid/)
+- [raquel-castillejo.github.io/tarjetas-organizadas-con-grid/](https://raquel-castillejo.github.io/tarjetas-organizadas-con-grid/)
 
 ## Descripción 📑
 
@@ -29,8 +29,6 @@ Si quieres echar un vistazo al proyecto, te recomiendo:
 ## Autor ✒️
 
 **Raquel Castillejo Méndez**
-
-- [raquelcastillejo@pm.me](raquelcastillejo@pm.me)
 - [LinkedIn](https://www.linkedin.com/in/raquel-castillejo-mendez)
 
 ## Instalación
